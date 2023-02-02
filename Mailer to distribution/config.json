@@ -1,0 +1,6 @@
+{
+    "sender" : "<sender email here>",
+    "key" : "<sender password here>",
+    "smtp" :"<sender email smtp server>",
+    "replyto" : "minaz@avyantax.com
+}
